@@ -1,0 +1,19 @@
+﻿  KGV_UTS.cpp
+C:\Users\AKSAL\Desktop\Kuliah\SEM 4\KGV\KGV_UTS\KGV_UTS.cpp(16,20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\AKSAL\Desktop\Kuliah\SEM 4\KGV\KGV_UTS\KGV_UTS.cpp(21,70): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\AKSAL\Desktop\Kuliah\SEM 4\KGV\KGV_UTS\KGV_UTS.cpp(22,70): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\AKSAL\Desktop\Kuliah\SEM 4\KGV\KGV_UTS\KGV_UTS.cpp(69,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\AKSAL\Desktop\Kuliah\SEM 4\KGV\KGV_UTS\KGV_UTS.cpp(70,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\AKSAL\Desktop\Kuliah\SEM 4\KGV\KGV_UTS\KGV_UTS.cpp(71,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\AKSAL\Desktop\Kuliah\SEM 4\KGV\KGV_UTS\KGV_UTS.cpp(128,26): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\AKSAL\Desktop\Kuliah\SEM 4\KGV\KGV_UTS\KGV_UTS.cpp(131,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\AKSAL\Desktop\Kuliah\SEM 4\KGV\KGV_UTS\KGV_UTS.cpp(132,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\AKSAL\Desktop\Kuliah\SEM 4\KGV\KGV_UTS\KGV_UTS.cpp(133,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\AKSAL\Desktop\Kuliah\SEM 4\KGV\KGV_UTS\KGV_UTS.cpp(139,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\AKSAL\Desktop\Kuliah\SEM 4\KGV\KGV_UTS\KGV_UTS.cpp(142,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\AKSAL\Desktop\Kuliah\SEM 4\KGV\KGV_UTS\KGV_UTS.cpp(143,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\AKSAL\Desktop\Kuliah\SEM 4\KGV\KGV_UTS\KGV_UTS.cpp(144,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\AKSAL\Desktop\Kuliah\SEM 4\KGV\KGV_UTS\x64\Debug\vc120.pdb'; linking object as if no debug info
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  KGV_UTS.vcxproj -> C:\Users\AKSAL\Desktop\Kuliah\SEM 4\KGV\KGV_UTS\x64\Debug\KGV_UTS.exe
